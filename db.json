@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "body": "This is a sentence in English." }
+    { "id": 1, "title": "Post 1", "body": "I am happy today." }
   ],
   "comments": [
-    { "id": 1, "body": "This is a coment for post 1!", "postId": 1 }
+    { "id": 1, "body": "This is a comment for post 1.", "postId": 1 }
   ]
 }
